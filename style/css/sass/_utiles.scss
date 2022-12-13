@@ -1,0 +1,52 @@
+*{
+    font-family: 'Gilroy';
+    font-style: normal;
+    margin:auto;
+
+
+}
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    color: #1F2428;
+}
+button{
+    border-radius: 10px;
+    background-color: rgba(0, 217, 129, 1);
+    border: none;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+    width: 180px;
+    margin-top: 20px;
+    height: 48px;
+  
+}
+button:hover{
+    opacity: 0.7;
+}
+h1{
+    color: white;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 80px;
+}
+h2{
+    margin: 0;
+}
+h3{
+    margin: 0;
+}
+p{
+    font-weight: 300;
+}
+.og{
+    font-size: 40px;
+    color: #1F2428;
+}

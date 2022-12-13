@@ -1,0 +1,29 @@
+header{
+    height: 680px;
+    background: linear-gradient(79.63deg, #5B52A3 1.08%, #40B8EA 100%);
+    border-radius: 36px;
+    .head{
+        display: flex;
+        justify-content: center;
+        align-items: center; 
+        .matn-1{
+            width: 643px;
+            p{
+                color: white;
+                font-weight: 300;
+                font-size: 20px;
+                line-height: 42px;
+            }
+            button{
+                width: 260px;
+                height: 66px;
+                font-size: 17px;
+            }
+        }   
+        .rasm{
+            margin-top: 50px;
+        }
+       
+    }
+    
+}

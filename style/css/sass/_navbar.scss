@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 120px;
+    width: 1200px;
+        ul{
+       display: flex;
+        gap: 20px;
+        }
+        .sign{
+            display: flex;
+        }
+    button{
+        width: 170px;
+        height: 48px;
+    }    
+    
+}
